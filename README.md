@@ -12,7 +12,7 @@
 * Sten Quidelleur | [Github](https://github.com/StenQuidelleur)
 * Aurélien André | [Github](https://github.com/Krilline)
 
-## Technos
+## Tech
 
 * HTML
 * CSS
